@@ -26,7 +26,7 @@
 
 <div style="text-align:center;">
     <p style="display:inline-block; margin: 0;">
-        <img align="left" padding-left="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungh01&&size_weight=0.5&count_weight=0.5&card_width=330&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="hungh01" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungh01&&size_weight=0.5&count_weight=0.5&card_width=330&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="hungh01" />
     </p>
     <p style="display:inline-block; margin: 0;">
         <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hungh01&theme=calm_pink" alt="hungh01" />
