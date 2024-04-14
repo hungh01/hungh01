@@ -1,4 +1,4 @@
-![MasterHeader](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif)
+![MasterHeader](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 
 <h1 align="center">Hi 👋, I'm Nguyen Duy Hung</h1>
 <h3 align="center">A passionate software engineer from VietNam</h3>
