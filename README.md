@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hungh01&label=Profile%20views&color=0e75b6&style=flat" alt="hungh01" /> </p>
 
-- 🌱 I’m currently learning **Spring and ReactJS.**
+- 🌱 I’m currently learning **NodeJS and ReactJS.**
 
-- 💬 Ask me about **Java, C#, C++, Python,...**
+- 💬 Ask me about **JavaScript, Java, C#, C++,...**
 
 - 📫 How to reach me **duyhung1632002@gmail.com**
 
